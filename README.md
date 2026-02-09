@@ -7,6 +7,9 @@
 ‎This repository contains two interactive sales analysis dashboards designed to provide actionable insights into sales performance, customer behavior, and channel efficiency. The dashboards visualize key metrics to support data-driven decision-making.
 ‎
 ‎## Dashboard 1: Sales Analysis Dashboard 1
+
+
+
 ‎
 ‎Focus: Regional sales, customer segmentation, product category performance, and feedback analysis.
 ‎
@@ -21,6 +24,10 @@
 ‎
 ‎
 ## ‎Dashboard 2: Sales Analysis Dashboard 2
+
+
+![Sales Dashboard 2](Project_Dashboard_2.png)
+
 ‎
 ‎Focus: Sales channel performance, discount impact, return rates, and product-level profitability.
 ‎
